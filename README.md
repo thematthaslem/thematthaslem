@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thematthaslem
+- 👋 Hi, I’m @thematthaslem (Matt Haslem)
 - 👀 I’m interested in mainly web development but am working on my Computer Science degree to gain knowledge in a Software Engineering and how computers work on a hardware level. 
 - 🌱 I’m currently learning C++, Python, Java, Django, various web-development frameworks, and Computer Architecture. 
 - 📫 How to reach me: thematthaslem@gmail.com
